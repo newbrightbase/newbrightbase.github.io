@@ -1,1 +1,1 @@
-# newbrightbase.github.io
+# newbrightbase
